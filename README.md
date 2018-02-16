@@ -7,4 +7,4 @@ has to have a unique flag that tells packets that this isdestined for the pathfi
 if the data is meant for pathfinder network and can't go to pathfinder destination via network than must vpn to that network thorugh normal internet
 
 needs a way to determine how much data has transmitted through a node
-will pay out the miner on how much data was transmitted through that node
+will pay out the miner on how much data was transmitted through that node.
